@@ -1,1 +1,1 @@
-# certification-notes-and-projects
+# Certification notes and Projects
